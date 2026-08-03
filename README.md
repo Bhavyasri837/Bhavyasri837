@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio Website and Online Clinic System<br><br>👯 I’m looking to collaborate on beginner-friendly full stack projects<br><br>🤝 I’m looking for help with improving my React, Spring Boot, and DSA skills<br><br>🌱 I’m currently learning Java DSA, React JS, Spring Boot, and MySQL<br><br>💬 Ask me about Java basics, HTML, CSS, React projects, and GitHub Pages deployment<br><br>⚡ Fun fact: I enjoy turning small ideas into simple web applications
+🔭 I’m currently working on my Portfolio Website and Online Clinic System<br><br>🤝 I’m looking for help with improving my React, Spring Boot, and DSA skills<br><br>🌱 I’m currently learning Java DSA, React JS, Spring Boot, and MySQL<br><br>💬 Ask me about Java basics, HTML, CSS, React projects, and GitHub Pages deployment<br><br>⚡ Fun fact: I enjoy turning small ideas into simple web applications
 
 
 ## 🌐 Socials:
